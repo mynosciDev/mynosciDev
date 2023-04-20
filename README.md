@@ -7,5 +7,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mynosciDev"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynosciDev&layout=compact"></img>
 <h2>Contact me</h2>
-<p>Contact me with email :</p> <a href="mailto:contact@mynosci.cloud">click here</a>
-<p>Contact me with contact form :</p> <p>Coming Soon</p>
+<p>Contact me with email :</p> <a href="mailto:contact@mynodev.me">click here</a>
+<p>Contact me with contact form :</p> <p>https://mynodev.me/submit.aspx/contact-form</p>
+<p>Favorite Tools:</p>
