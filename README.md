@@ -1,7 +1,5 @@
 <h1 style="display: center;"> Hello :) </h1>
-<h1>I am mynosci, a student ; I speak French & English</h1>
-<script src="https://myno-asset-buildprod.s3.amazonaws.com/global/tracking.s5e118560f.js"</script>
-<p>My social networks:</p>
+<h1>I am mynosci, a student ; I speak French & English</h1><p>My social networks:</p>
 <img src="https://img.shields.io/badge/TWITCH-mynosci_twitch-blueviolet?style=for-the-badge&logo=twitch?link=https://twitch.tv/mynosci_twitch/"><img src="https://img.shields.io/badge/TWITTER-mynoxhd-blue?style=for-the-badge&logo=twitch?link=https://secure-links.mynosci.cloud/twitter/">
 <a rel="me" href="https://mastouille.fr/@mynosci">Mastodon</a>
 <p>My stats:</p>
