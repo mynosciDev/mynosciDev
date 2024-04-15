@@ -5,7 +5,7 @@ Hi, my name is mynosci, I'm passionate about development and I already have a fe
 ![My Github activity in 2024](https://github-readme-stats.vercel.app/api?username=mynosciDev)
 
 I'm passionate about **Java** (more specifically in the Minecraft server domain), the **HTML and CSS** combo and **Javascript**.
-I also dabble in other programming languages such as: **Python** and PHP**.
+I also dabble in other programming languages such as: **Python** **and PHP**.
 I know how to use the following technologies: **MySQL** (for the moment)
 For code, I use several IDEs:
 	- IntelIJ Idea -> Java
