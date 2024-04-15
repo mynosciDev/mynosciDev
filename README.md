@@ -8,9 +8,10 @@ Je suis passionné par le **Java** (plus précisément dans le domaine de serveu
 Je touche aussi à d'autres languages de programmation comme: **Python** et **PHP**
 Je sais me servir des technologies suivantes: **MySQL** (pour le moment)
 Pour le code, j'utilises plusieurs IDE:
-	- IntelIJ Idea -> Java
-	- WebStorm -> Javascript, HTML et CSS
-	- Visual Studio Code -> Python
-	- PHPStorm -> PHP
+- IntelIJ Idea -> Java
+- WebStorm -> Javascript, HTML et CSS
+- Visual Studio Code -> Python
+- PHPStorm -> PHP
+
 
 Si tu as des questions, n'hésite pas a me contacter [ici](https://discord.gg/mynodev)
