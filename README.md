@@ -13,5 +13,6 @@ Pour le code, j'utilises plusieurs IDE:
 - Visual Studio Code -> Python
 - PHPStorm -> PHP
 
+Je développe actuellement un projet sur le thème de l'éducation: [Edukey](https://github.com/EdukeyFrance)
 
 Si tu as des questions, n'hésite pas a me contacter [ici](https://discord.gg/mynodev)
