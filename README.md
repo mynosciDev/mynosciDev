@@ -59,4 +59,4 @@ Rejoins-moi sur Discord : [discord.gg/mynodev](https://discord.gg/mynodev)
 
 ---
 
-👉 [**Clique ici pour la version anglaise**](https://github.com/mynosciDev/mynosciDev/blob/main/README_EN.md)
+👉 [**Click here for english version**](https://github.com/mynosciDev/mynosciDev/blob/main/README_EN.md)
