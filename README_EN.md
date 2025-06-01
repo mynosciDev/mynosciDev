@@ -1,4 +1,4 @@
-[**Click here for french version**](https://github.com/mynosciDev/mynosciDev/blob/main/README.md)
+[**Clique ici pour la version française**](https://github.com/mynosciDev/mynosciDev/blob/main/README.md)
 
 
 Hi, my name is mynosci, I'm passionate about development and I already have a few skills:
