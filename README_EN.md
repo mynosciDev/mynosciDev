@@ -4,7 +4,7 @@
 <!-- Introduction -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=ff0080&height=100&section=header&text=%F0%9F%91%8B%20Introduction&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40" alt="introduction" />
 
-🎮 Developer at **Twitch Games**, a collaborative open-source project focused on creating community-driven games.  
+🎮 Developer at *![**Quizz App**](https://github.com/quizzappv3/), a open source and collaborative project who permit a quizz creation,edit and sharign.  
 💡 I'm passionate about **Java development (Minecraft)**, the **web**, and **digital education**.
 
 ---
@@ -40,15 +40,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 [![Mime-Logger](https://img.shields.io/badge/Mime--Logger-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mimexe/mime-logger)
-
----
-
-<!-- Projects -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=ff6600&height=100&section=header&text=📚%20Current%20Projects&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40&ref=myno" alt="projects" />
-
-### 🎮 [Twitch Games](https://github.com/mynosciDev/TwitchGames)  
-A community open source project for the Twitch Games server, which I work on both live and off-stream.  
-If you're interested, you'll be able to contribute very soon!
 
 ---
 
