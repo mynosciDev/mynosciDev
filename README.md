@@ -1,10 +1,10 @@
 <!-- Bannière -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Salut,%20moi%20c%27est%20mynosci!&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=35&desc=D%C3%A9veloppeur%20chez%20Twitch%20Games%20%F0%9F%8E%AE&descAlign=50&descAlignY=60" alt="bannière" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Salut,%20moi%20c%27est%20mynosci!&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=35&desc=D%C3%A9veloppeur%20chez%20QuizzApp%20%F0%9F%8E%AE&descAlign=50&descAlignY=60" alt="bannière" />
 
 <!-- Présentation -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=ff0080&height=100&section=header&text=%F0%9F%91%8B%20Pr%C3%A9sentation&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40" alt="présentation" />
 
-🎮 Développeur chez ![**Quizz App**](https://github.com/quizzappv3/), un projet collaboratif open source permettant la création, l'édition et le partage de quizz.  
+🎮 Développeur chez [**Quizz App**](https://github.com/quizzappv3/), un projet collaboratif open source permettant la création, l'édition et le partage de quizz.  
 💡 Je suis passionné par le **développement Java (Minecraft)**, le **web** et l’**éducation numérique**.
 
 ---
