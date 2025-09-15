@@ -4,7 +4,7 @@
 <!-- Présentation -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=ff0080&height=100&section=header&text=%F0%9F%91%8B%20Pr%C3%A9sentation&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40" alt="présentation" />
 
-🎮 Développeur chez **Twitch Games**, un projet collaboratif open source autour de la création de jeux communautaires.  
+🎮 Développeur chez ![**Quizz App**](https://github.com/quizzappv3/), un projet collaboratif open source permettant la création, l'édition et le partage de quizz.  
 💡 Je suis passionné par le **développement Java (Minecraft)**, le **web** et l’**éducation numérique**.
 
 ---
@@ -42,16 +42,6 @@
 [![Mime-Logger](https://img.shields.io/badge/Mime--Logger-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mimexe/mime-logger)
 
 ---
-
-<!-- Projets -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=ff6600&height=100&section=header&text=📚%20Projets%20en%20cours&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40&ref=myno" alt="projets" />
-
-### 🎮 [Twitch Games](https://github.com/mynosciDev/TwitchGames)  
-Projet open source communautaire, pour le serveur Twitch Games, un projet que je réalise en live et hors live.  
-Si tu es intéressé, tu pourras très bientôt contribuer !
-
----
-
 <!-- Contact -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=ff3366&height=100&section=header&text=📬%20Me%20contacter&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40&ref=myno" alt="contact" />
 
