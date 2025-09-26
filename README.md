@@ -4,7 +4,7 @@
 <!-- Présentation -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=ff0080&height=100&section=header&text=%F0%9F%91%8B%20Pr%C3%A9sentation&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=40" alt="présentation" />
 
-🎮 Développeur chez [**Quizz App**](https://github.com/quizzappv3/), un projet collaboratif open source permettant la création, l'édition et le partage de quizz.  
+🎮 Fondateur de [**Fortunia**](https://fortunia.fr/?utm_source=github-mynosciDev), un serveur minecraft OP Prison avec des fonctionalités innovantes
 💡 Je suis passionné par le **développement Java (Minecraft)**, le **web** et l’**éducation numérique**.
 
 ---
