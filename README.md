@@ -1,3 +1,6 @@
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=mynosciDev&data=repositories,stars,followers&theme=darkmode" alt="GitHub WidgetBox">
+<!--Stole that from Mimexe, who stole it from ShadowMikado's profile, thanks-->
+
 <!-- Bannière -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Salut,%20moi%20c%27est%20mynosci!&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=35&desc=D%C3%A9veloppeur%20chez%20QuizzApp%20%F0%9F%8E%AE&descAlign=50&descAlignY=60" alt="bannière" />
 
